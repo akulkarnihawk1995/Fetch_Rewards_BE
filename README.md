@@ -36,9 +36,10 @@ POST /api/add
 
 | Parameter | Type | Description |
 | :--- | :--- | :--- |
-| `api_key` | `string` | **Required**. Your Gophish API key |
-| `api_key` | `string` | **Required**. Your Gophish API key |
-| `api_key` | `string` | **Required**. Your Gophish API key |
+| `userName` | `string` | **Required**. unique username |
+| `payer` | `string` | **Required**. payer for e.g. Dannon |
+| `points` | `Number` | **Required**. total points |
+| `timetamp` | `string` | **Required**. Timestamp of transaction |
 
 
 
