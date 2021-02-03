@@ -16,6 +16,6 @@ exports.addPoints = (request,response) =>{
 exports.deductPoints = () =>{
 
 }
-exports.balancePoints = (request, response) => {
+exports.balancePoints = (request, response) =>  {
 
 }
