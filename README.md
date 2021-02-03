@@ -19,7 +19,7 @@ To run this application
 * In the Postman Click new Request -> POST 
 * For the request body format select raw -> JSON
 
-###POST Routes
+### POST Routes
 
 * To add transaction -> Make POST request to follwing endpoints
 ```http
@@ -70,7 +70,7 @@ POST /api/deduct
 | `points` | `string` | **Required**. Number of points you want to deduct |
 
 
-###GET route
+### GET route
 
 * To get available balance make a GET request to following route
 ```http
