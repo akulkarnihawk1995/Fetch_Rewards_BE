@@ -2,7 +2,7 @@
 /**
  * global data structure that will store every user with their respective transaction and points map
  */
-const userStore = new Map();
+const userData_Map = new Map();
 /**
  * 
  * @param request  express object
