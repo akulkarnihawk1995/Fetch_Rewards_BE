@@ -1,5 +1,5 @@
 
-### Prerequisites
+## Prerequisite
 
 To run this application
 
@@ -12,10 +12,12 @@ To run this application
       $ npm install
       $ npm start
 
-* This will start the local server, which will server for endpoints
+* This will start the local server, which will server for endpoints and you'll see a message ```Server is running on port: 5000```
+
+
+
 ## Status Codes
 
-Gophish returns the following status codes in its API:
 
 | Status Code | Description |
 | :--- | :--- |
