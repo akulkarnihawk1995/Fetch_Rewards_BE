@@ -1,10 +1,16 @@
-const { response } = require("express");
+
+/**
+ * global data structure that will store every user with their respective transaction and points map
+ */
+const userStore = new Map();
 /**
  * 
- * @param {*} request request object
- * @param {*} response response object
+ * @param request  express object
+ * @param response express object
+ * 
  */
 exports.addPoints = (request,response) =>{
+
 }
 
 exports.deductPoints = () =>{
